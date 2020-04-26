@@ -1,0 +1,10 @@
+Egg: 6, 5, 0, 72
+Lettuce: 1, 0, 2, 8
+Avocado: 4, 29, 17, 322
+Banana: 1, 0, 27, 105
+BK Onion Rings Small: 3, 16, 41, 320
+BK French Fries: 3, 15, 49, 337
+KFC Wing Extra Crispy: 12, 13, 6, 190
+KFC Drumstick Spicy Crispy: 11, 10, 5, 160
+KFC Popcorn Chicken Large: 32, 37, 26, 560
+Little Caesars Breadsticks: 3, 3, 15, 100
